@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "246577118317",
+    "firebase_url": "https://urban-hikes.firebaseio.com",
+    "project_id": "urban-hikes",
+    "storage_bucket": "urban-hikes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246577118317:android:8bc007b9c55bf3c50cd364",
+        "android_client_info": {
+          "package_name": "com.urbanhikes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246577118317-cpedb0g0urggeq6pa8brucs5gauluvqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtEhwLgZuTLPwJNWFndf22QVqPxSaZSjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246577118317-cpedb0g0urggeq6pa8brucs5gauluvqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
