@@ -1,1 +1,3 @@
-Hello, world
+#Urban Hikes
+
+Urban Hikes is a mobile app made using React Native that has a database of all the trails in the Seattle area. Each hike has a few pieces of loot that can be collected by walking close to them with the app open. It is meant to encourage more people, especially the younger generation, to go outside and explore the outdoors. 
